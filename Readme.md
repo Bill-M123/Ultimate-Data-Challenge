@@ -26,7 +26,7 @@ Description in *ultimate_data_challenge.pdf*
 
 *Question 2 Summary:*
     
-Question 2 is a straightforward design of experiments problem to test a policy change for the toll between two cities. The essay discusses careful planning to avoid sampling bias, using a control and test group in each city, and measuring the results with standard hypothesis techniques.  It concludes with a reminder to check teh economic impact of the policy, though that is outside the scope of the problem description.
+Question 2 is a straightforward design of experiments problem to test a policy change for the toll between two cities. The essay discusses careful planning to avoid sampling bias, using a control and test group in each city, and measuring the results with standard hypothesis techniques.  It concludes with a reminder to check the economic impact of the policy, though that is outside the scope of the problem description.
 
 *Question 3 Summary:*
 
