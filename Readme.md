@@ -32,7 +32,7 @@ Question 2 is a straightforward design of experiments problem to test a policy c
 
 !['Summary'](https://github.com/Bill-M123/Ultimate-Data-Challenge/blob/master/Model%20Assessment2.png)
 
-Question 3 is a customer retention problem that requires developingof the variables, decision processes for missing values, and one hot encoding for categorical variables.  A RandomForrest classifer is optimized with a Randomized search on selected hyper parameters and fit to the data.  
+Question 3 is a customer retention problem that requires developing of the variables, decision processes for missing values, and one hot encoding for categorical variables.  A RandomForrest classifer is optimized with a Randomized search on selected hyper parameters and fit to the data.  
 
 The results were acceptable for a quick model.  76% of the projected retained customers actuall stay, 78% of the projected defections happen, and an roc score of 0.83 is achieved.  The code is easily extensible to allow testing other classifiers or increasing the accuracy of this model with something like a more computationally intensive grid search.
 
