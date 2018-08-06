@@ -30,7 +30,7 @@ Question 2 is a straightforward design of experiments problem to test a policy c
 
 *Question 3 Summary:*
 
-!['Summary'](https://github.com/Bill-M123/Ultimate-Data-Challenge/blob/master/Model Assessment2.png)
+!['Summary'](https://github.com/Bill-M123/Ultimate-Data-Challenge/blob/master/Model%20Assessment2.png)
 
 Question 3 is a customer retention problem that requires developingof the variables, decision processes for missing values, and one hot encoding for categorical variables.  A RandomForrest classifer is optimized with a Randomized search on selected hyper parameters and fit to the data.  
 
