@@ -15,7 +15,7 @@ Description in *ultimate_data_challenge.pdf*
 
 *Question 1 Summary:*
 
-![Summary](overview.png)
+![Summary](https://github.com/Bill-M123/Ultimate-Data-Challenge/blob/master/Overview.png)
 
 1. There is missing data, and the month of April is only present through the 13th of the month.
 2. There is a time dependence in customer logins, with plots of the actual data in the notebook as well as a summary of the average hourly logons
@@ -30,7 +30,7 @@ Question 2 is a straightforward design of experiments problem to test a policy c
 
 *Question 3 Summary:*
 
-!['Summary'](Model Assessment2.png)
+!['Summary'](https://github.com/Bill-M123/Ultimate-Data-Challenge/blob/master/Model Assessment2.png)
 
 Question 3 is a customer retention problem that requires developingof the variables, decision processes for missing values, and one hot encoding for categorical variables.  A RandomForrest classifer is optimized with a Randomized search on selected hyper parameters and fit to the data.  
 
