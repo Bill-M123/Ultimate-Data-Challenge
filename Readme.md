@@ -1,7 +1,7 @@
 
 # Overview of Ultimate Data Challenge Submission
 
-## 3 Questions:Detailed
+## 3 Questions:  Detailed
 Description in *ultimate_data_challenge.pdf*
 
 
