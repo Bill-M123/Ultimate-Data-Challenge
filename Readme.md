@@ -34,6 +34,6 @@ Question 2 is a straightforward design of experiments problem to test a policy c
 
 Question 3 is a customer retention problem that requires developing of the variables, decision processes for missing values, and one hot encoding for categorical variables.  A RandomForrest classifer is optimized with a Randomized search on selected hyper parameters and fit to the data.  
 
-The results were acceptable for a quick model.  76% of the projected retained customers actuall stay, 78% of the projected defections happen, and an roc score of 0.83 is achieved.  The code is easily extensible to allow testing other classifiers or increasing the accuracy of this model with something like a more computationally intensive grid search.
+The results were acceptable for a quick model.  76% of the projected retained customers actually stay, 78% of the projected defections happen, and an roc score of 0.83 is achieved.  The code is easily extensible to allow testing other classifiers or increasing the accuracy of this model with something like a more computationally intensive grid search.
 
 Despite the simplicity of the model, several useful things emerge for the client to review and try to improve.  Examples include a difference in the retention rates of Android and iPhone app users, a difference in retention rates between cities, and a clear customer focus on surge pricing.
